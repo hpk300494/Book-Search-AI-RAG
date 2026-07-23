@@ -153,7 +153,7 @@ The LLM uses the re-ranked search results to produce the final recommendation.
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/book-search-ai-rag.git
+git clone https://github.com/hpk300494/book-search-ai-rag.git
 ```
 
 Navigate to the project
